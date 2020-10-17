@@ -1,0 +1,23 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/31992/Lab3.git"
+  },
+  "author": "31992",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/31992/Lab3/issues"
+  },
+  "homepage": "https://github.com/31992/Lab3#readme"
+}
